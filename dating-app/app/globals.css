@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background: #C4536F;
+  color: #14151A;
+}
+
+.paper-seam {
+  background-image: radial-gradient(
+    circle at 1px 1px,
+    rgba(246, 241, 234, 0.08) 1px,
+    transparent 0
+  );
+  background-size: 22px 22px;
+}
