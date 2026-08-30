@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Introductions",
+  title: "NITJ Anonymous",
   description: "A quiet way to say you're interested.",
 };
 
